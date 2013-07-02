@@ -10,7 +10,11 @@ https://gist.github.com/ClaytonFarr/bc12d6bb85ffb96042e8
 and
 https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme
 
-to create this theme with arrows, tabs and pretty colors
+to create this theme with arrows, tabs and pretty colors.
+
+[Instuctions](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme#instructions)
+
 
 
 ![Monokai theme](/img/Monokai Theme.png "Monokai Theme")
+
