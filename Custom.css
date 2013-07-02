@@ -1897,15 +1897,15 @@
 	text-shadow: none;
 }
 
-.sidebar-pane-title {
+#-webkit-web-inspector .sidebar-pane-title {
 	text-shadow: none !important;
 }
 
-.outline-disclosure li.parent {
+#-webkit-web-inspector .outline-disclosure li.parent {
 	position: relative;
 }
 
-.outline-disclosure li.parent:before {
+#-webkit-web-inspector .outline-disclosure li.parent:before {
 	font-family: 'Arial' !important;
 	color: rgba(255,255,255,.2) !important;  
 	content: '►' !important;
@@ -1914,10 +1914,10 @@
 }
 
 
-.outline-disclosure .parent.expanded::before {
+#-webkit-web-inspector .outline-disclosure .parent.expanded::before {
 	content: '▼' !important;
 }
 
-.outline-disclosure li.parent.selected::before {
+#-webkit-web-inspector .outline-disclosure li.parent.selected::before {
 	background: none !important;
 }
