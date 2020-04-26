@@ -16,5 +16,5 @@ to create this theme with arrows, tabs and pretty colors.
 
 
 
-![Monokai theme](/img/Monokai Theme.png "Monokai Theme")
+![Monokai theme](img/Monokai%20Theme.png)
 
